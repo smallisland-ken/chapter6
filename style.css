@@ -42,8 +42,19 @@ header .heading {
   background-position: center;
 }
 .main-visual-content {
-  width: 350px; /* 横幅350px */
-  height: 300px; /* 親の高さに揃える */
+  width: 40%; /* 横幅350px */
+  height: 195px; /* 親の高さに揃える */
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding-top: 105px;
+}
+
+.main-visual-text {
+  color: #fff;
+}
+
+.main-visual-name {
+  color: white;
 }
 
 .main {
